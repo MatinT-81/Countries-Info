@@ -1,2 +1,2 @@
 # Countries-Info
-This is my first app by Python !
+When you run the program, you can see the information about that country by entering the name of the country correctly!
